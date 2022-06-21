@@ -1,3 +1,7 @@
+# 字节数据库作业
+主要实现了数据库故障恢复，实现的方法比较简单
+
+
 **Replicating gradescope tests locally**
 
 The code can be compiled using Maven; the following command generates a jar file
